@@ -1,1 +1,2 @@
-console.log("Update branch master");
+<<<<<<< HEAD
+console.log("Update branch new-feature ke master");
